@@ -123,7 +123,7 @@
 <tspan x="10" y="1930">  ├── underscore@1.8.3 </tspan>
 <tspan x="10" y="1946">  ├── word-wrap@1.2.1 </tspan>
 <tspan x="10" y="1962">  ├── xml-escape@1.1.0 </tspan>
-<tspan x="10" y="1978">  └─┬ yamljs@0.2.9 </tspan>
+<tspan x="10" y="1978">  └─┬ yamljs@0.2.10 </tspan>
 <tspan x="10" y="1994">    ├─┬ argparse@1.0.9 </tspan>
 <tspan x="10" y="2010">    │ └── sprintf-js@1.0.3 </tspan>
 <tspan x="10" y="2026">    └─┬ glob@7.1.1 </tspan>
